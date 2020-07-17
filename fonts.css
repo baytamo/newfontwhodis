@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Grenze Gotisch', cursive;
+    color: red;
+}
+
+
+.one {
+    font-family: 'Pacifico', cursive;
+    color: orange;
+    }
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+    color: yellow;
+    background-color: black;
+}
+
+.two {
+    font-family: 'Ranchers', cursive;
+    color: green;
+    }
+
+h3 {
+font-family: 'Lexend Zetta', sans-serif;
+    color: blue;
+}
+
+.three {
+    font-family: 'Red Rose', cursive;
+    color: blueviolet;
+}
