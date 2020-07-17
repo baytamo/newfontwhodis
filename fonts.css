@@ -10,7 +10,7 @@ h1:hover {
 .one {
     font-family: 'Pacifico', cursive;
     color: orange;
-    }
+}
 
 .one:hover {
     color: violet;
@@ -30,11 +30,12 @@ h2:hover {
 .two {
     font-family: 'Ranchers', cursive;
     color: green;
-    }
+}
 
 .two:hover {
     color: pink;
-}    
+}
+
 h3 {
 font-family: 'Lexend Zetta', sans-serif;
     color: blue;
