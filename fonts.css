@@ -3,11 +3,18 @@ h1 {
     color: red;
 }
 
+h1:hover {
+    color: lightblue;
+}
 
 .one {
     font-family: 'Pacifico', cursive;
     color: orange;
     }
+
+.one:hover {
+    color: violet;
+}    
 
 h2 {
     font-family: 'Indie Flower', cursive;
@@ -15,17 +22,33 @@ h2 {
     background-color: black;
 }
 
+h2:hover {
+    color: lightcoral;
+
+}
+
 .two {
     font-family: 'Ranchers', cursive;
     color: green;
     }
 
+.two:hover {
+    color: pink;
+}    
 h3 {
 font-family: 'Lexend Zetta', sans-serif;
     color: blue;
 }
 
+h3:hover {
+    color: limegreen
+}
+
 .three {
     font-family: 'Red Rose', cursive;
     color: blueviolet;
+}
+
+.three:hover {
+    color: lightsalmon;
 }
